@@ -162,4 +162,9 @@ The project uses IPL cricket data:
 
 ---
 
-*Happy predictions! 🎉*
+## 📝 License
+
+This project is licensed under the **MIT License** - feel free to use, modify, and distribute this project for both commercial and personal purposes. See the LICENSE file for details.
+
+**Free to use!** This project is open source and available to everyone. No attribution required, but appreciated!
+
